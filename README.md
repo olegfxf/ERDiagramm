@@ -29,7 +29,7 @@ realisedate (дата выхода  фильма), duration (продолжит�
 
 # **Схема базы данных filmorate приведена на рисунке.**
 
-![filmorate.png](/home/ylab/db/readmeER/filmorate.png "ER")
+![filmorate.png](https://github.com/olegfxf/ERDiagramm/blob/main/filmorate.png "ER")
 
 
 # **Тестовые запросы к таблицам базы данных filmorate.**
